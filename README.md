@@ -43,7 +43,7 @@ In the coming months, I'll be working on projects involving:
 
 ## 📈 GitHub Stats  
 
-![Zita Uvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zita-uvo&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=github_dark)
+![Zita Uvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zitauvo&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=github_dark)
 
 ---
 
